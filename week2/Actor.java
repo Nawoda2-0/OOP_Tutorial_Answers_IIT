@@ -1,4 +1,4 @@
-package week2.task01;
+package week2;
 
 public class Actor {
 
