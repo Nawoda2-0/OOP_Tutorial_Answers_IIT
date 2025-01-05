@@ -71,7 +71,7 @@ public class BookManager {
                         boolean found = false;
 
                         for (Map.Entry<Book, Integer> entry : bookShelfMap.entrySet()){
-                            if (entry.getValue()==selectedShelf){7
+                            if (entry.getValue()==selectedShelf){
                                 System.out.println(entry.getKey());
                                 found = true;
                             }
